@@ -1,6 +1,6 @@
 {
 	"displayedName": "Classical Portraits for SoFG",
-	"prefix": "ClassicsSOFG",
+	"prefix": "ClassicsSoFG",
 	"description": "Portraits for Shadows of Forbidden Gods, from classical art. Replaces vanilla portraits for all heroes, agents, orcs and goblins, misc. items, and witches.",
 	"versionsSupported": ["0.11", "0.12", "0.13", "0.14", "1.0", "1.1", "2.0"],
 	"modCredit": "Callmesalticidae"
