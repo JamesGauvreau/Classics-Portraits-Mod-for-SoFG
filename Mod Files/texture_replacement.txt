@@ -1,4 +1,5 @@
-REPLACE agent_Courtier ClassicsSoFG.Courtier.png
-REPLACE agent_Supplicant ClassicsSoFG.Supplicant.png
-REPLACE agent_Trickster ClassicsSoFG.Trickster.png
-REPLACE agent_Warlock ClassicsSoFG.Warlock.png
+REPLACE agent_courtier ClassicsSoFG.agent_Courtier.jpg
+REPLACE agent_dissident ClassicsSoFG.agent_Dissident.jpg
+REPLACE agent_supplicant ClassicsSoFG.agent_Supplicant.jpg
+REPLACE agent_trickster ClassicsSoFG.agent_Trickster.jpg
+REPLACE agent_warlock ClassicsSoFG.agent_Warlock.jpg
